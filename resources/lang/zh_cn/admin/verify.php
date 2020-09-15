@@ -1,0 +1,6 @@
+<?php
+
+return [
+'answer.empty' => "问题答案不能为空",
+'flash.not.allow' => "flash需要Ming库支持"
+];

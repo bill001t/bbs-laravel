@@ -1,0 +1,8 @@
+<?php
+
+return [
+'refresh.fast' => "啊哦，你刷新太频繁啦！",
+'source.error' => "数据来源错误",
+
+
+];

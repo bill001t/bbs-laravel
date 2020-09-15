@@ -1,0 +1,7 @@
+<?php
+
+return [
+'not.open' => "亲，该功能没有开启哦",
+'today.punch' => "您今天已经打卡了哦，明天再来吧",
+'friend.num.error' => "每天只能帮助:num个好友打卡哦",
+];

@@ -1,0 +1,6 @@
+<?php
+
+return [
+'setting.success' => "设置保存成功",
+'login.type.require' => "用户登录方式不能为空"
+];

@@ -1,0 +1,1 @@
+<script src="{{ asset('assets/js') }}/pages/admin/common/common.js"></script>
